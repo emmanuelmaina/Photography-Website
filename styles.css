@@ -64,3 +64,6 @@ section:hover {
         color: white;
     }
 }
+body {
+    background-color: aqua;
+}
