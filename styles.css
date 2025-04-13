@@ -68,3 +68,7 @@ section:hover {
 body {
     background-color: aqua;
 }
+main {
+    margin-top: 100px;
+    font-family: Poetsen One;
+}
