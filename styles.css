@@ -71,4 +71,8 @@ body {
 main {
     margin-top: 100px;
     font-family: Poetsen One;
+    text-align: center;
+}
+.concern {
+    margin-top: 100px;
 }
