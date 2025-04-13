@@ -56,3 +56,11 @@ h2 {
 section:hover {
     background-color: slategrey;
 }
+@media screen and (max-width: 500px){
+    body {
+        background-color: black;
+    }
+    h4 {
+        color: white;
+    }
+}
